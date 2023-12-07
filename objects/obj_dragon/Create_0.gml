@@ -1,5 +1,9 @@
+// Dragon
 spd = 3;
 animation_spd = 2;
+
+// Dragon Attack
+dragon_attack_speed = 5;
 
 iddle_spd = 0;
 iddle_animation_spd = 0;
