@@ -38,6 +38,7 @@
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
     {"id":{"name":"obj_dragon_attack","path":"objects/obj_dragon_attack/obj_dragon_attack.yy",},},
     {"id":{"name":"spr_dragon_down","path":"sprites/spr_dragon_down/spr_dragon_down.yy",},},
+    {"id":{"name":"obj_round","path":"objects/obj_round/obj_round.yy",},},
     {"id":{"name":"spr_dragon_left","path":"sprites/spr_dragon_left/spr_dragon_left.yy",},},
     {"id":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},},
     {"id":{"name":"spr_game_over","path":"sprites/spr_game_over/spr_game_over.yy",},},
