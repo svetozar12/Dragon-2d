@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_dragon_attack",
-    "path": "sprites/spr_dragon_attack/spr_dragon_attack.yy",
+    "name": "spr_dragon_attack_down",
+    "path": "sprites/spr_dragon_attack_down/spr_dragon_attack_down.yy",
   },
   "spriteMaskId": null,
   "visible": true,
