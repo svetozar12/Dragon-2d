@@ -26,6 +26,7 @@
     {"name":"spr_dragon_left","order":1,"path":"sprites/spr_dragon_left/spr_dragon_left.yy",},
     {"name":"spr_dragon_attack_up","order":3,"path":"sprites/spr_dragon_attack_up/spr_dragon_attack_up.yy",},
     {"name":"rm_game_over","order":1,"path":"rooms/rm_game_over/rm_game_over.yy",},
+    {"name":"spr_forest","order":13,"path":"sprites/spr_forest/spr_forest.yy",},
     {"name":"spr_game_over","order":6,"path":"sprites/spr_game_over/spr_game_over.yy",},
     {"name":"spr_dragon_right","order":2,"path":"sprites/spr_dragon_right/spr_dragon_right.yy",},
     {"name":"spr_dragon_attack_right","order":2,"path":"sprites/spr_dragon_attack_right/spr_dragon_attack_right.yy",},
